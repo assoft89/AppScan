@@ -1,0 +1,4 @@
+ru/assoft/appscan/MainActivity.java
+ ru.assoft.appscan.MainActivity
+ru/assoft/appscan/BuildConfig.java
+ ru.assoft.appscan.BuildConfig
