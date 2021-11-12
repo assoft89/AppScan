@@ -10,220 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48c843d1-e45a-41c8-8db4-1de90c19e09d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/admin-ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/ajax-loader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/bad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/blank.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_hex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_hsb_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_hsb_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_hsb_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_indic.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_rgb_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_rgb_g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_rgb_r.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/colorpicker_submit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/select.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/colorpicker/slider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_closebox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_ne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_nw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_se.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_sw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/fancybox/fancy_shadow_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/form-check-off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/form-check-on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/form-radio-off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/form-radio-on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/good.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/adsense.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/advanced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/general.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/iconpool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/megaphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/plugin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/push.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/h3_icons/style.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Admin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Apps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Archives.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Books.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Calendar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Clock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Colors.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Contacts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Delicious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Digg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Finder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Flickr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Mail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Maps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/MySpace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Notes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Photos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Podcast.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/RSS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Safari.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Squares.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Stocks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/ToDo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Videos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/Wikipedia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/WordPress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/YouTube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/iPod.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-pool/iTunes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icon-search-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icons-18-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icons-18-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icons-36-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/icons-36-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/progress.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/reset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/saved.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/settings_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/sortof.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/wand_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/images/wptouch-icon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/jquery.mobile-1.0a2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/css/table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/js/Zayavki.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/js/dialogs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/js/myUtils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/js/work.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQuery/jquery-1.11.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQuery/jquery-1.12.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQuery/jquery-1.12.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/jquery.mobile-1.4.5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/jquery.mobile-1.4.5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/action-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/action-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/alert-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/alert-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-d-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-d-l-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-d-l-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-d-r-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-d-r-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-d-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-l-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-l-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-r-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-r-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-u-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-u-l-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-u-l-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-u-r-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-u-r-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/arrow-u-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/audio-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/audio-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/back-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/back-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/bars-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/bars-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/bullets-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/bullets-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/calendar-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/calendar-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/camera-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/camera-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-d-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-d-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-l-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-l-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-r-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-r-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-u-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/carat-u-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/check-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/check-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/clock-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/clock-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/cloud-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/cloud-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/comment-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/comment-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/delete-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/delete-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/edit-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/edit-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/eye-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/eye-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/forbidden-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/forbidden-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/forward-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/forward-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/gear-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/gear-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/grid-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/grid-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/heart-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/heart-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/home-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/home-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/info-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/info-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/location-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/location-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/lock-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/lock-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/mail-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/mail-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/minus-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/minus-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/navigation-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/navigation-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/phone-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/phone-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/plus-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/plus-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/power-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/power-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/recycle-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/recycle-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/refresh-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/refresh-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/search-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/search-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/shop-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/shop-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/star-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/star-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/tag-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/tag-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/user-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/user-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/video-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/images/icons-png/video-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/jquery.mobile-1.4.5.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/jquery.mobile.icons.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/my.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/jQueryMobile/themes/my.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/libs/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/sounds/beep.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/sounds/beep2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="D:/AS/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -290,8 +77,6 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -345,54 +130,29 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="335" key="#PSD" timestamp="1616405963613">
+    <state x="92" y="92" width="1736" height="976" key="AVDManager" timestamp="1636707487585">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="513" y="335" key="#PSD/0.0.1920.1160@0.0.1920.1160" timestamp="1616405963613" />
-    <state x="442" y="192" width="1109" height="795" key="AVDManager" timestamp="1616405885496">
+    <state x="92" y="92" width="1736" height="976" key="AVDManager/0.0.1920.1160@0.0.1920.1160" timestamp="1636707487585" />
+    <state width="1488" height="445" key="GridCell.Tab.0.bottom" timestamp="1636705435705">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="442" y="192" width="1109" height="795" key="AVDManager/0.0.1920.1160@0.0.1920.1160" timestamp="1616405885496" />
-    <state x="776" y="344" key="FileChooserDialogImpl" timestamp="1616476406232">
+    <state width="1488" height="445" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1636705435705" />
+    <state width="1488" height="445" key="GridCell.Tab.0.center" timestamp="1636705435704">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="776" y="344" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1616476406232" />
-    <state width="937" height="222" key="GridCell.Tab.0.bottom" timestamp="1616476007864">
+    <state width="1488" height="445" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1636705435704" />
+    <state width="1488" height="445" key="GridCell.Tab.0.left" timestamp="1636705435704">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="937" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1616476007864" />
-    <state width="937" height="222" key="GridCell.Tab.0.center" timestamp="1616476007862">
+    <state width="1488" height="445" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1636705435704" />
+    <state width="1488" height="445" key="GridCell.Tab.0.right" timestamp="1636705435705">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="937" height="222" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1616476007862" />
-    <state width="937" height="222" key="GridCell.Tab.0.left" timestamp="1616476007862">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="937" height="222" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1616476007862" />
-    <state width="937" height="222" key="GridCell.Tab.0.right" timestamp="1616476007863">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="937" height="222" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1616476007863" />
-    <state width="938" height="321" key="GridCell.Tab.1.bottom" timestamp="1616408135833">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="938" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1616408135833" />
-    <state width="938" height="321" key="GridCell.Tab.1.center" timestamp="1616408135833">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="938" height="321" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1616408135833" />
-    <state width="938" height="321" key="GridCell.Tab.1.left" timestamp="1616408135833">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="938" height="321" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1616408135833" />
-    <state width="938" height="321" key="GridCell.Tab.1.right" timestamp="1616408135833">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="938" height="321" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1616408135833" />
-    <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1616475855921">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="667" y="136" width="585" height="888" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1616475855921" />
+    <state width="1488" height="445" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1636705435705" />
   </component>
 </project>

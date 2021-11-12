@@ -11,7 +11,7 @@
 9-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:5:5-32:19
 12        android:allowBackup="true"
 12-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,20 +28,52 @@
 19        android:testOnly="true"
 20        android:theme="@style/Theme.Appscan" >
 20-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:11:9-45
-21        <activity android:name="ru.assoft.appscan.MainActivity" >
-21-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:14:17-69
-23-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:16:17-77
-25-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28    </application>
-29
-30</manifest>
+21        <activity
+21-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:12:9-31:20
+22            android:name="ru.assoft.appscan.MainActivity"
+22-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:12:19-47
+23            android:clearTaskOnLaunch="false"
+23-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:16:13-46
+24            android:configChanges="keyboardHidden|orientation|screenSize"
+24-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:13:13-74
+25            android:hardwareAccelerated="true"
+25-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:18:13-47
+26            android:launchMode="singleTask"
+26-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:14:13-44
+27            android:noHistory="false"
+27-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:17:13-38
+28            android:windowSoftInputMode="adjustResize" >
+28-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:15:13-55
+29            <intent-filter>
+29-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:21:17-69
+30-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:23:17-77
+32-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34            <intent-filter>
+34-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:25:13-30:29
+35                <action android:name="android.intent.action.VIEW" />
+35-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:26:17-68
+35-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:27:17-75
+37-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:27:27-73
+38                <category android:name="android.intent.category.BROWSABLE" />
+38-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:28:17-77
+38-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:28:27-75
+39
+40                <data
+41                    android:host="ru.assoft.appscan"
+41-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:29:23-55
+42                    android:scheme="appscnan" />
+42-->E:\My\OSPanel\domains\localhost\AppScan\Android\app\src\main\AndroidManifest.xml:29:56-81
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

@@ -35,22 +35,19 @@
 		document.head.appendChild(script);   
 	}
 
-	ver = '1.1';
+	ver = '1.2';
 	//ver = Date.now();
 
 	addScript("js/myUtils.js?time=" + ver);
 	addScript("js/dialogs.js?time=" + ver);
 	addScript("js/Zayavki.js?time=" + ver);
 	addScript("js/work.js?time=" + ver);
+	//addScript("js/barcode.js?time=" + ver);
 </script>
 
 	
 </head>
 <body>
-  
-
-
-
 
 <!--	pageMain	-->
 <div data-role="page" id="pageMain">
@@ -62,7 +59,6 @@
 			<ul>
 				<li><a href="#pageMain" class="ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit ui-btn-active ui-state-persist">Главная</a></li>
 				<li><a href="#allDocs"  class="ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit">Документы</a></li>
-
 			</ul>
 		</div>
 	</div>
@@ -74,7 +70,6 @@
 			<a href="#" onclick="onClickNewPrihod()">Новый приход:</a>
 		</li>			
 	</ul>
-
 
 	<li class="ui-field-contain">
 		<fieldset class="ui-grid-a">
@@ -218,7 +213,7 @@
 			<li><a href="#" onclick="editCurDoc()">Изменить</a></li>
 			<li><a href="#" onclick="scanSave()">Экспорт в файл только ШК</a></li>
 			<li><a href="#" onclick="scanSaveAll()">Экспорт в файл</a></li>
-			<li><a href="#">Очистить</a></li>
+			<li><a href="#" onclick="Data.clearScanListCurDoc()">Очистить</a></li>
 			<li><a href="#" onclick="delCurDoc()">Удалить</a></li>
 		</ul>
 	</div>
@@ -234,7 +229,9 @@
 
 	<div role="main" class="ui-content">
 
-			<div id="captionNewScan" align="center">Начните сканировать</div>
+			<div id="captionNewScan" align="center" onclick="">Начните сканировать</div>
+			
+			<input onchange="on_change_input(this)" type="search" tabindex="1" id="inputSH" placeholder="Введите ШК, нажмите Enter"></input>
 			
 			<button id="new_scan_dlg_hw1" class="ui-shadow ui-corner-all ui-btn ui-mini" onclick="show_dlg_edit_hw(this)">Введите тип оборудования</button>
 			
@@ -247,16 +244,8 @@
 				</tbody>
 			</table>
 			  
-		</div> 
-	
-
-	
-				
+		</div> 			
 </div><!--	Новое сканирование		-->
-
-
-
-
 
 
 <!-- 		Настройки		-->
@@ -273,10 +262,6 @@
 <!--		Настройки		-->
 
 
-
-
-
-
 <!--		Диалог Сообщение		-->
 <div data-role="dialog" id="dlgINFO1" data-confirmed="no" data-dismissible="false" > 
 	<div data-role="content" >
@@ -288,14 +273,21 @@
 <!--		Диалог Сообщение		-->
 
 <!--		Диалог Сообщение с подтверждением		-->
-<div data-role="dialog" id="dlgINFOConfirm" data-confirmed="no"  data-dismissible="false" style="max-width:500px;">
+<div data-role="dialog" id="dlgINFOConfirm" data-confirmed="no"  data-dismissible="false" style="/*max-width:500px;*/">
 	<div data-role="content">
 		<h1>Сообщение</h1>
 		<h3 class="ui-title"></h3>
+		<!-- старый вариант
 		<a href="#" style="width:20%" class="btclickOK ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-a">Да</a>
 		<a href="#" style="width:20%" class="btclickNO ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-a optionCancel" data-transition="flow">Нет</a>
-	</div>
-</div>					
+		-->	
+		<fieldset class="ui-grid-a">
+			<div class="ui-block-a"><input class="btclickOK" type="button" value="Да"></div>
+			<div class="ui-block-b"><input class="btclickNO" type="button" data-transition="flow" value="Нет"></div>
+		</fieldset>
+		</div>
+
+</div>
 <!--		Диалог Сообщение с подтверждением		-->
 
 

@@ -1,4 +1,4 @@
-#Tue Mar 23 10:19:52 YEKT 2021
+#Fri Nov 12 14:56:17 YEKT 2021
 base.0=E\:\\My\\OSPanel\\domains\\localhost\\AppScan\\Android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
