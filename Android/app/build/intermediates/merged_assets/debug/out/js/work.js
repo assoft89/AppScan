@@ -599,7 +599,7 @@ function download(data, filename, type) {
         window.navigator.msSaveOrOpenBlob(file, filename);
     else { // Others
         var a = document.createElement("a"),
-                url = URL.createObjectURL(file);
+                url = (window.URL ? URL : webkitURL).createObjectURL(file);
         a.href = url;
         a.download = filename;
         document.body.appendChild(a);
@@ -607,7 +607,7 @@ function download(data, filename, type) {
         setTimeout(function() {
             document.body.removeChild(a);
             window.URL.revokeObjectURL(url);  
-        }, 0); 
+        }, 500); 
     }
 }
 

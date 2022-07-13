@@ -3,7 +3,7 @@ var dialogsMulti = {
 	newDlg : function(obj){
 		this.arr[this.arr.length] = obj;
 		
-		if ($('.ui-dialog.ui-page-active').dialog().length == 0) // Если нет активных диалогов
+		if ($('.ui-dialog.ui-page-active').dialog().length == 0) // Р•СЃР»Рё РЅРµС‚ Р°РєС‚РёРІРЅС‹С… РґРёР°Р»РѕРіРѕРІ
 			this.show();
 	},
 	show : function(){
@@ -96,12 +96,12 @@ var dialogs = {
     var popupDialogId = 'popupDialog';
     $('<div data-role="popup" id="' + popupDialogId + '" data-confirmed="no" data-transition="pop" data-overlay-theme="a" data-theme="a" data-dismissible="false" style="max-width:500px;"> \
                         <div data-role="header" data-theme="a">\
-                            <h1>Сообщение</h1>\
+                            <h1>РЎРѕРѕР±С‰РµРЅРёРµ</h1>\
                         </div>\
                         <div role="main" class="ui-content">\
                             <h3 class="ui-title">' + text + '</h3>\
-                            <a href="#" style="width:20%" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-a optionConfirm" data-rel="back">Да</a>\
-                            <a href="#" style="width:20%" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-a optionCancel" data-rel="back" data-transition="flow">Нет</a>\
+                            <a href="#" style="width:20%" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-a optionConfirm" data-rel="back">Р”Р°</a>\
+                            <a href="#" style="width:20%" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-a optionCancel" data-rel="back" data-transition="flow">РќРµС‚</a>\
                         </div>\
                     </div>')
         .appendTo($.mobile.pageContainer);
@@ -134,7 +134,7 @@ var dialogs = {
     var popupDialogId = 'popupDialog';
     $('<div data-role="popup" id="' + popupDialogId + '" data-confirmed="no" data-transition="pop" data-overlay-theme="a" data-theme="a" data-dismissible="false" > \
                         <div data-role="header" data-theme="a">\
-                            <h1>Сообщение</h1>\
+                            <h1>РЎРѕРѕР±С‰РµРЅРёРµ</h1>\
                         </div>\
                         <div role="main" class="ui-content">\
                             <h3 class="ui-title">' + text + '</h3>\

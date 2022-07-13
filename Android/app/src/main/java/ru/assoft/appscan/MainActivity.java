@@ -24,6 +24,10 @@ public class MainActivity extends AppCompatActivity {
         WebView webView = (WebView) findViewById (R.id.webview);
 
         WebSettings webSettings = webView.getSettings();
+
+        webSettings.setSupportMultipleWindows(true);
+        webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
+
         webSettings.setJavaScriptEnabled(true);
         webSettings.setDomStorageEnabled(true);
         webSettings.setLoadWithOverviewMode(true);
